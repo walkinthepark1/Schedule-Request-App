@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Time Off Trends to Time Off Requests Nav">c221f7e6888e3110678412e7d4f1f0a6</button>
+        <button_table/>
+        <constant_value/>
+        <destination_ui_parameter display_value="URL">c221f7e6d08e3110d6351d599e6f4a9f</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:50</sys_created_on>
+        <sys_id>4621f7e6888e31107e16dc970edc4c9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c221f7e6d08e3110d6351d599e6f4a9f</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_4621f7e6888e31107e16dc970edc4c9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:50</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

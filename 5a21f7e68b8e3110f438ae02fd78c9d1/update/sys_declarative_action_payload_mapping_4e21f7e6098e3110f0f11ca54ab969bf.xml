@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="List decline modal">c621f7e6448e3110d4f5937fc8922bc1</action_payload_definition>
+        <label>List open decline modal List</label>
+        <model display_value="List">c3547169534723003eddddeeff7b126c</model>
+        <payload_map>fields@table={{table}}^route=list_modal_page^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:48</sys_created_on>
+        <sys_id>4e21f7e6098e3110f0f11ca54ab969bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List open decline modal List</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_4e21f7e6098e3110f0f11ca54ab969bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:48</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>requested_by.manager</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:46</sys_created_on>
+        <sys_id>8e21f7e60b8e311055fa75a351d65c86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>requested_by.manager</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8e21f7e60b8e311055fa75a351d65c86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:46</sys_updated_on>
+        <table>x_165991_schedul_0_request</table>
+        <ui_policy display_value="Read-only fields">0e21f7e65b8e31108e0fc3fe08059086</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

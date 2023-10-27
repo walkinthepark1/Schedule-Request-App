@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:41</sys_created_on>
+        <sys_id>8e21f7e6348e3110ea7686ecd56479ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_scope_privilege_8e21f7e6348e3110ea7686ecd56479ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:41</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

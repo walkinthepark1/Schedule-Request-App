@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time Off Requests portal Config">0221f7e6fb8e3110fb4cf4ceccc0a1d1</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Log-In</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>login</route_type>
+        <screen_type display_value="Log-In">4621f7e6378e3110c3fad6217961e67e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:43</sys_created_on>
+        <sys_id>c621f7e6338e3110dd72ae5889d38e7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log-In</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_ux_app_route_c621f7e6338e3110dd72ae5889d38e7e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:43</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=c621f7e6338e3110dd72ae5889d38e7e"/>
+</record_update>

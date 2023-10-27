@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time Off Requests workspace Config">0e21f7e6d48e311023f321b4b27511d0</app_config>
+        <description/>
+        <extension_point/>
+        <fields>userGivenTable,table,label,parentRecordSysId,parentFieldName,referencedFieldName,extensionPoint,view,columns,hideSelectAll,type,relatedListName</fields>
+        <icon/>
+        <name>DA Modal Multi-Record Associator</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent/>
+        <parent_macroponent_composition_element_id>modalContainerViewport</parent_macroponent_composition_element_id>
+        <route_type>mra</route_type>
+        <screen_type display_value="DA Modal Multi-Record Associator">0221f7e6648e31106b17eb8c3e3fd87d</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:34</sys_created_on>
+        <sys_id>8a21f7e6d78e3110d1e603782bcf437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DA Modal Multi-Record Associator</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_ux_app_route_8a21f7e6d78e3110d1e603782bcf437c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:34</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=8a21f7e6d78e3110d1e603782bcf437c"/>
+</record_update>

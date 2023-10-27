@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_declarative_action_assignment">
+    <sys_declarative_action_assignment action="INSERT_OR_UPDATE">
+        <action/>
+        <action_attributes/>
+        <action_name>approve</action_name>
+        <action_payload/>
+        <action_type>type</action_type>
+        <active>false</active>
+        <button_type>primary</button_type>
+        <client_action display_value="Edit">c621f7e6408e3110e126c38b793d30c2</client_action>
+        <client_conditions/>
+        <client_conditions_on_fields/>
+        <client_script/>
+        <confirmation_message/>
+        <confirmation_required>false</confirmation_required>
+        <create_access>false</create_access>
+        <declarative_action_render_mode/>
+        <declarative_action_type>uxf_client_action</declarative_action_type>
+        <delete_access>false</delete_access>
+        <dependency/>
+        <description/>
+        <design_icon/>
+        <enabled>true</enabled>
+        <experience_restricted>false</experience_restricted>
+        <field_name/>
+        <field_type>glide_date</field_type>
+        <form_fields_required>false</form_fields_required>
+        <form_position/>
+        <group display_value="">2f3d202e48c1a410f877557fd58e16a1</group>
+        <group_by>true</group_by>
+        <icon/>
+        <label>Approve</label>
+        <model display_value="List">c3547169534723003eddddeeff7b126c</model>
+        <model_conditions/>
+        <model_field_required/>
+        <order>100</order>
+        <payload_map/>
+        <read_access>false</read_access>
+        <record_conditions/>
+        <record_selection_required>false</record_selection_required>
+        <required_roles/>
+        <requires_value>false</requires_value>
+        <script_condition/>
+        <server_script/>
+        <specificity>13</specificity>
+        <sys_class_name>sys_declarative_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0221f7e6598e31108f43966a880793c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approve</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_declarative_action_assignment_0221f7e6598e31108f43966a880793c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:54</sys_updated_on>
+        <table>x_165991_schedul_0_request</table>
+        <tooltip/>
+        <ui_component/>
+        <view display_value="Workspace" name="workspace">4736b0a03cb1311068bcf327dfe37f81</view>
+        <workspace display_value="Time Off Request WS">4e21f7e6fa8e311069f32740389ef7c6</workspace>
+        <write_access>false</write_access>
+    </sys_declarative_action_assignment>
+    <sys_translated_text action="delete_multiple" query="documentkey=0221f7e6598e31108f43966a880793c2"/>
+</record_update>

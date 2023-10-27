@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Time Off View Config (Requester)</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:47</sys_created_on>
+        <sys_id>0221f7e65a8e3110bdc242d0db080fa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off View Config (Requester)</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_view_config_0221f7e65a8e3110bdc242d0db080fa4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:47</sys_updated_on>
+        <table>x_165991_schedul_0_request</table>
+        <template display_value="Template 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=0221f7e65a8e3110bdc242d0db080fa4"/>
+</record_update>

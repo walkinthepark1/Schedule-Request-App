@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:59</sys_created_on>
+        <sys_id>8e21f7e6228e31104a4b756393227caa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.x_snc_time_off.portal.x_165991_schedul_0.employee</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_security_acl display_value="now.x_snc_time_off.portal">0621f7e6968e311087dbb185cac4d5ac</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8e21f7e6228e31104a4b756393227caa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:59</sys_updated_on>
+        <sys_user_role display_value="x_165991_schedul_0.employee" name="x_165991_schedul_0.employee">c221f7e6818e3110660cdc2e5b245dd1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

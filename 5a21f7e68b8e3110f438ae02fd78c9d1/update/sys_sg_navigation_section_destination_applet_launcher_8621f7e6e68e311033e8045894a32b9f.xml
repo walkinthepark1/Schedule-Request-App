@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_applet_launcher">
+    <sys_sg_navigation_section_destination_applet_launcher action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Time Off">4a21f7e6e28e3110473301644d2fc5a7</applet_launcher>
+        <background_color/>
+        <foreground_color/>
+        <icon display_value="Assets icon">0308385b1c003300964f3fc617b23a2e</icon>
+        <image/>
+        <name>Nav section</name>
+        <sys_class_name>sys_sg_navigation_section_destination_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:49</sys_created_on>
+        <sys_id>8621f7e6e68e311033e8045894a32b9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nav section</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_applet_launcher_8621f7e6e68e311033e8045894a32b9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:49</sys_updated_on>
+    </sys_sg_navigation_section_destination_applet_launcher>
+</record_update>

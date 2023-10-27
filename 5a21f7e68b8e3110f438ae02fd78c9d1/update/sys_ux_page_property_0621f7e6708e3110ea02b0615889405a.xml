@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Header Configuration for Time Off Workspace</description>
+        <name>headerConfigId</name>
+        <page display_value="Schedule Requests workspace">8e21f7e6628e3110527debc0050e6bd0</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0621f7e6708e3110ea02b0615889405a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>headerConfigId</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_ux_page_property_0621f7e6708e3110ea02b0615889405a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:53</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_165991_schedul_0.8e21f7e6628e3110527debc0050e6bd0.root.headerConfigId</unique_name>
+        <value>0e21f7e6658e31102392c2b88791356c</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0621f7e6708e3110ea02b0615889405a"/>
+</record_update>

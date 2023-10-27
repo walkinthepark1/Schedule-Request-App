@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c221f7e6d38e3110df14515425792a84" sys_domain="global" table="x_165991_schedul_0_request" version="3" view="new_x_165991_schedul_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:37</sys_created_on>
+            <sys_id>0a21f7e6698e3110955642cd81418a84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_schedul_0_request" sys_domain="global" view="8621f7e6358e311092f29195b4526584">c221f7e6d38e3110df14515425792a84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:37</sys_created_on>
+            <sys_id>8a21f7e6418e31108c8c7d4e92004e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_schedul_0_request" sys_domain="global" view="8621f7e6358e311092f29195b4526584">c221f7e6d38e3110df14515425792a84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:37</sys_created_on>
+            <sys_id>8221f7e6428e311041d94673fe218684</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_schedul_0_request" sys_domain="global" view="8621f7e6358e311092f29195b4526584">c221f7e6d38e3110df14515425792a84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:37</sys_created_on>
+            <sys_id>4621f7e6748e3110fcf2d0b20b6abd84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_schedul_0_request" sys_domain="global" view="8621f7e6358e311092f29195b4526584">c221f7e6d38e3110df14515425792a84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:37</sys_created_on>
+            <sys_id>c621f7e60d8e31104de54f25bb84cd84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_schedul_0_request" sys_domain="global" view="8621f7e6358e311092f29195b4526584">c221f7e6d38e3110df14515425792a84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:37</sys_created_on>
+            <sys_id>4a21f7e6508e31109139128ad32c4d84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_schedul_0_request" sys_domain="global" view="8621f7e6358e311092f29195b4526584">c221f7e6d38e3110df14515425792a84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:37</sys_created_on>
+            <sys_id>ca21f7e61e8e3110ceda7259c80d7384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_schedul_0_request" sys_domain="global" view="8621f7e6358e311092f29195b4526584">c221f7e6d38e3110df14515425792a84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_off_reason</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:37</sys_created_on>
+            <sys_id>4e21f7e6e18e3110dfdfa32d4abbc783</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_schedul_0_request" sys_domain="global" view="8621f7e6358e311092f29195b4526584">c221f7e6d38e3110df14515425792a84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_165991_schedul_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c221f7e6d38e3110df14515425792a84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_165991_schedul_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+            <sys_update_name>sys_ui_section_c221f7e6d38e3110df14515425792a84</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New (x_165991_schedul_0)" name="new_x_165991_schedul_0">8621f7e6358e311092f29195b4526584</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

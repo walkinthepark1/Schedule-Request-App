@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Time Off Report by Status (Bar) Navigation">0e21f7e6198e311036cc69b4202daea5</jump_to_screen>
+        <name>Time Off Trends</name>
+        <report display_value="Time Off Report by Status">4a21f7e67b8e3110cb7d05cfb3a176af</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:50</sys_created_on>
+        <sys_id>ca21f7e6308e31102c0d9f837f5c3aa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Trends</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_chart_ca21f7e6308e31102c0d9f837f5c3aa4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:50</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

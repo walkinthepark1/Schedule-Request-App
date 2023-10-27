@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_165991_schedul_0_request" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>ce21f7e6f28e31105958cb0dfa52fd87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>4621f7e6698e3110a67acf90cb6f3088</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>8221f7e62b8e31107d93556e6d8d4088</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by.department</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>8e21f7e6ec8e3110c16b4393e1e67e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by.manager</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>0621f7e6e08e311022a67001358ac088</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_submitted</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>4221f7e6f98e311098caa3d7cefdfb88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>4e21f7e6d58e3110ec81e4eb0be92d87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>c221f7e6748e31106f18d59f3c547e88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>times_submitted</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>0a21f7e6788e311068900d14caa86d87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>8621f7e68c8e31108efa4fbe83205587</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>ca21f7e60a8e311072f4d9f48cbf9687</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>time_off_reason</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>8a21f7e6dc8e3110a97cb43ff6ea9d87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>rejection_reason</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>4621f7e6ef8e3110c25cc5f56194cd87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>0e21f7e62e8e31103160b96b3adbee87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_notes</element>
+            <list_id display_value="x_165991_schedul_0_request" element="NULL" name="x_165991_schedul_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0221f7e62c8e311042e6bcf62fe54d88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_id>c621f7e65f8e311024bb950ead48ff87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_165991_schedul_0_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0221f7e62c8e311042e6bcf62fe54d88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_165991_schedul_0_request</sys_name>
+            <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+            <sys_update_name>sys_ui_list_x_165991_schedul_0_request_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

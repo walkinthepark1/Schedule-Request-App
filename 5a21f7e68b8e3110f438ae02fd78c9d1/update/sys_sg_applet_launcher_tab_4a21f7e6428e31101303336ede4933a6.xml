@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Time Off">4a21f7e6e28e3110473301644d2fc5a7</applet_launcher>
+        <icon display_value="My Requests Icon">ce21f7e6e48e31107bcac3bb7e0ae1a6</icon>
+        <label>Time Off</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:50</sys_created_on>
+        <sys_id>4a21f7e6428e31101303336ede4933a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_4a21f7e6428e31101303336ede4933a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:50</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

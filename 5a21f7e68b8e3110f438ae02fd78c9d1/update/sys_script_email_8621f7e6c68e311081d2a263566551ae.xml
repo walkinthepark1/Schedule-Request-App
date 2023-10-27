@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>x_165991_schedul_0.to.review</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript( /* GlideRecord */ current, /* TemplatePrinter */ template,
+    /* Optional EmailOutbound */
+    email, /* Optional GlideRecord */ email_action,
+    /* Optional GlideRecord */
+    event) {
+
+    var link = current.getLink();
+    template.print('<font face="tahoma">');
+
+    // 	var backgroundColor = 'background-color: #003059;';
+    var color = 'color: #ffffff;';
+    var fontSize = 'font-size: 12pt;';
+    // 	var fontFamily = 'font-family: Helvetica, Arial, sans-serif;';
+    var textDecoration = 'text-decoration: none;';
+    // 	var webKitBorder = '-webkit-border-radius: 0px;';
+    // 	var mozBorder = '-moz-border-radius: 0px;';
+    // 	var display = 'display: inline-block;';
+    // 	var padding = 'padding: 13px 65px;';
+
+    var companyCode = gs.getProperty("glide.appcreator.company.code");
+    if (companyCode == "snc" || companyCode == "sn" || companyCode == "now") {
+        companyCode = "now";
+    } else {
+        companyCode = "x/" + companyCode;
+    }
+    template.print('<a href="' + gs.getProperty('glide.servlet.uri') +companyCode + '/x_165991_schedul_0/workspace/record/' + current.sys_class_name + '/' + current.sys_id + '"');
+
+    template.print('style="' + color + fontSize + textDecoration);
+    template.print('">');
+    template.print(gs.getMessage('Review request'));
+    template.print('</a>');
+    template.print('</font>');
+
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:49</sys_created_on>
+        <sys_id>8621f7e6c68e311081d2a263566551ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_165991_schedul_0.to.review</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_script_email_8621f7e6c68e311081d2a263566551ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:49</sys_updated_on>
+    </sys_script_email>
+</record_update>

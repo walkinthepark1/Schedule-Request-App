@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create time request">0621f7e6358e311021a24872f7d6bda8</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="icon-Plus-Solid">4221f7e68f8e3110b868358a82edbda5</icon>
+        <label>Request time off</label>
+        <location>quick_action</location>
+        <name>Request time off</name>
+        <order/>
+        <parent>4a21f7e6e28e3110473301644d2fc5a7</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:48</sys_created_on>
+        <sys_id>4621f7e6c98e31105a8037ec0089c3a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request time off</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_4621f7e6c98e31105a8037ec0089c3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:48</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=4621f7e6c98e31105a8037ec0089c3a7"/>
+</record_update>

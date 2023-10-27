@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_07_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:46</sys_created_on>
+        <sys_id>4221f7e6718e3110f0febf252743a79b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_07_element</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_4221f7e6718e3110f0febf252743a79b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:46</sys_updated_on>
+        <view_config display_value="Time Off View Config (Admin)">c221f7e66a8e311038227169a7b5f7a4</view_config>
+        <view_template_slot display_value="text_07">e87845b041275010f877183fc9b8be13</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

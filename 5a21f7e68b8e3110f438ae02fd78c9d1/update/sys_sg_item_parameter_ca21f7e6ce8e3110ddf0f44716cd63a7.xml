@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Request end_date</name>
+        <parent>4621f7e61f8e3110ca82024c8925eda6</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:58</sys_created_on>
+        <sys_id>ca21f7e6ce8e3110ddf0f44716cd63a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request end_date</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_ca21f7e6ce8e3110ddf0f44716cd63a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:58</sys_updated_on>
+        <type>datetime</type>
+    </sys_sg_item_parameter>
+</record_update>

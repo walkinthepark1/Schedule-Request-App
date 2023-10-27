@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Schedule Requests">4a21f7e62e8e311051cdf82c1fe840c7</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Time Off Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>true</override_menu_roles>
+        <query>/x/165991/x_165991_schedul_0/portal/landing/home</query>
+        <report/>
+        <roles>x_165991_schedul_0.employee</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4621f7e6678e3110f10e981fb840d9c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_app_module_4621f7e6678e3110f10e981fb840d9c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:45</sys_updated_on>
+        <timeline_page/>
+        <title>Time Off Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Time off portal</window_name>
+    </sys_app_module>
+</record_update>

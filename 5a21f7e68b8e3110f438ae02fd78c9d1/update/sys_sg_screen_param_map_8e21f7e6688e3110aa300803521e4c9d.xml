@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Approved or Rejected">8221f7e6358e3110c6072477824e83a2</item_parameter>
+        <screen display_value="Time Off Requests">0621f7e69e8e3110df7c60b30258f4a6</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:39</sys_created_on>
+        <sys_id>8e21f7e6688e3110aa300803521e4c9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8221f7e6358e3110c6072477824e83a2</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_8e21f7e6688e3110aa300803521e4c9d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:39</sys_updated_on>
+        <ui_parameter display_value="URL">c221f7e6d08e3110d6351d599e6f4a9f</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

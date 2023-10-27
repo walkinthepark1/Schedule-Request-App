@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Recent Requests Item Stream">4e21f7e6ed8e3110e2f796d6d42aa5a0</item_stream>
+        <segment display_value="Item Stream Segment">0e21f7e6618e3110bea4cb1e092bcf9f</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:48</sys_created_on>
+        <sys_id>4e21f7e61d8e3110646dbdd93ca07a9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_4e21f7e61d8e3110646dbdd93ca07a9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:48</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

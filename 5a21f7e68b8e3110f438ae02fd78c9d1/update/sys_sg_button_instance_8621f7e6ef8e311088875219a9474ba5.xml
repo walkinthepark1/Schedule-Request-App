@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Reject">ca21f7e6ff8e3110583fb16d62669ba8</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Decline</label>
+        <location>footer</location>
+        <name>Decline</name>
+        <order>10</order>
+        <parent>4a21f7e65c8e311035822c49fa3937a5</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:35</sys_created_on>
+        <sys_id>8621f7e6ef8e311088875219a9474ba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Decline</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_8621f7e6ef8e311088875219a9474ba5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:35</sys_updated_on>
+        <table>x_165991_schedul_0_request</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=8621f7e6ef8e311088875219a9474ba5"/>
+</record_update>

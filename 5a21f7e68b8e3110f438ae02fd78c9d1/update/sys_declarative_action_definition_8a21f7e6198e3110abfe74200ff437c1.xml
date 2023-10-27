@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_definition">
+    <sys_declarative_action_definition action="INSERT_OR_UPDATE">
+        <action_component/>
+        <action_component_tag/>
+        <action_type>dispatch_action</action_type>
+        <applicable_to>c3547169534723003eddddeeff7b126c,d91731a9534723003eddddeeff7b121c</applicable_to>
+        <confirmation_message/>
+        <confirmation_required>false</confirmation_required>
+        <description>Open form to edit selected records</description>
+        <dispatch_action>TO#EDIT_SELECTED</dispatch_action>
+        <name>Edit</name>
+        <sys_class_name>sys_declarative_action_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:47</sys_created_on>
+        <sys_id>8a21f7e6198e3110abfe74200ff437c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_declarative_action_definition_8a21f7e6198e3110abfe74200ff437c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:47</sys_updated_on>
+        <workspace/>
+    </sys_declarative_action_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=8a21f7e6198e3110abfe74200ff437c1"/>
+</record_update>

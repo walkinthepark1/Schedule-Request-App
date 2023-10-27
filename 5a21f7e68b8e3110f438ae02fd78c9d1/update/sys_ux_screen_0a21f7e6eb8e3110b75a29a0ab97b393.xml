@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Time Off Requests portal Config">0221f7e6fb8e3110fb4cf4ceccc0a1d1</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="404">0e21f7e6ba8e31100b5e9f6ef1467b6a</macroponent>
+        <macroponent_config/>
+        <name>NEW 404 default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type/>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 06:20:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a21f7e6eb8e3110b75a29a0ab97b393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NEW 404 default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Schedule Requests" source="x_165991_schedul_0">5a21f7e68b8e3110f438ae02fd78c9d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Requests">5a21f7e68b8e3110f438ae02fd78c9d1</sys_scope>
+        <sys_update_name>sys_ux_screen_0a21f7e6eb8e3110b75a29a0ab97b393</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 06:20:57</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=0a21f7e6eb8e3110b75a29a0ab97b393"/>
+</record_update>
